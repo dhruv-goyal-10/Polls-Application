@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/4.jfif") no-repeat;
+    background-size: cover;
+}
